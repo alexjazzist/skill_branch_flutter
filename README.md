@@ -1,4 +1,4 @@
-# galleryapp
+# ru_skillbranch_galleryapp
 
 A new Flutter project.
 
